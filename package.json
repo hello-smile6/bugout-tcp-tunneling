@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/hello-smile6/bugout-tcp-tunneling/issues"
   },
-  "homepage": "https://github.com/hello-smile6/bugout-tcp-tunneling#readme"
+  "homepage": "https://github.com/hello-smile6/bugout-tcp-tunneling#readme",
+  "dependencies": {
+    "bugout": "^0.0.12",
+    "webtorrent": "^1.8.3",
+    "wrtc": "^0.4.7"
+  }
 }
